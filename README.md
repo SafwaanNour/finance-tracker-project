@@ -6,7 +6,7 @@ A SQL database I built to track personal finances across multiple accounts. This
 
 Why I Built This
 
-As I prepare for roles in finance, I wanted to go beyond Excel and learn how to work directly with databases. Modern finance teams increasingly use SQL to extract data from ERP systems and build automated reporting workflows. This project let me practice those skills in a finance context I understand - tracking accounts, categorizing transactions, and analyzing spending patterns. I structured the project to progressively build my skills, starting with basic queries and working up to complex joins and window functions.
+As I prepare for roles in finance, I wanted to go beyond Excel and learn how to work directly with databases. Modern finance teams increasingly use SQL to extract data from ERP systems and build automated reporting workflows. This project let me practice those skills in a finance context I understand; tracking accounts, categorizing transactions, and analyzing spending patterns. I structured the project to progressively build my skills, starting with basic queries and working up to complex joins and window functions.
 
 Built with: PostgreSQL
 
